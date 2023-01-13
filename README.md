@@ -28,7 +28,7 @@ In my analysis I looked at predicting the variable "Delay" which was created by 
 Navigating this repo is fairly simple! Just click on a folder you would like to view below.
 #### Folders:
 * [Final Analysis:](https://github.com/reboyce/CapstoneFinal/tree/main/FInal%20Analysis) Includes my final notebook, presentation, and proposal
-* [Drafts:]() Includes draft notebooks used for exploratory analysis and preprocessing 
+* [Drafts:](https://github.com/reboyce/CapstoneFinal/tree/main/Drafts) Includes draft notebooks used for exploratory analysis and preprocessing 
 
 
 
