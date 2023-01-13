@@ -25,4 +25,11 @@ In my analysis I looked at predicting the variable "Delay" which was created by 
 * XGboost
 
 ### Navigating the Repo
-Navigating this repo is fairly simple! Find all my final materials in the folder titled "Final
+Navigating this repo is fairly simple! Just click on a folder you would like to view below.
+#### Folders:
+* [Final Analysis:]() Includes my final notebook, presentation, and proposal
+* [Drafts:]() Includes draft notebooks used for exploratory analysis and preprocessing 
+
+
+
+
