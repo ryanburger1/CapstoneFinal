@@ -14,4 +14,4 @@ Dataset used in my analysis:
 
 ### Notebooks:
 -Link to my Final [Notebook](https://github.com/reboyce/CapstoneFinal/blob/main/FInal%20Analysis/Capstone-AirplaneDelayAnalysis.ipynb)
--Link to my Preprocessing [Notebooks]
+-Link to my Preprocessing [Notebooks](https://github.com/reboyce/CapstoneFinal/tree/main/Drafts)
