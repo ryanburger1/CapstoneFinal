@@ -1,7 +1,7 @@
 # Welcome to Reece's Capstone Repo!
 Reece Boyce's official capstone repo for AI Academy semester 2!
 
-* You can view my Proposal [here](https://github.com/reboyce/CapstoneFinal/blob/main/Reece_Boyce_Capstone_Project_Proposal.pdf)
+* You can view my Proposal [here](https://github.com/reboyce/CapstoneFinal/blob/main/FInal%20Analysis/Reece_Boyce_Capstone_Project_Proposal.pdf)
 * You can view my Presentation [here]()
 
 ### Summary:
