@@ -13,5 +13,5 @@ Dataset used in my analysis:
 * https://www.kaggle.com/datasets/sherrytp/airline-delay-analysis
 
 ### Notebooks:
--Link to my Final Notebook[
--Link to my Preprocessing Notebooks
+-Link to my Final [Notebook](https://github.com/reboyce/CapstoneFinal/blob/main/FInal%20Analysis/Capstone-AirplaneDelayAnalysis.ipynb)
+-Link to my Preprocessing [Notebooks]
