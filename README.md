@@ -1,8 +1,8 @@
 # Welcome to Reece's Capstone Repo!
 Reece Boyce's official capstone repo for AI Academy semester 2!
 
-* You can view my Proposal [here](https://github.com/reboyce/CapstoneFinal/blob/main/FInal%20Analysis/Reece_Boyce_Capstone_Project_Proposal.pdf)
-* You can view my Presentation [here]()
+* You can view my Proposal [here](https://github.com/reboyce/CapstoneFinal/blob/main/FInal%20Analysis/Capstone-FlightDelayProposal.pdf)
+* You can view my Presentation [here](https://github.com/reboyce/CapstoneFinal/blob/main/FInal%20Analysis/Capstone-AirlineDelayPresentation.pdf)
 
 ### Summary:
 In this project I was asked to come up with a real life example of how machine learning could be implemented to solve a real world business problem. In today's society national travel predominantly comes in the form of airline travel and has in turn caused the airline industry to explode in revenue. One issue that faces many passengers on a daily basis is Flight Delays. They're inconvienent and often lose both the airline and customers money. To solve this issue I decided to build multiple machine learning models that can help airlines predict which flights may be delayed before they happen.
